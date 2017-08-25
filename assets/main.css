@@ -1,5 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    background: black;
+    color: white;
 }
 
 /* Scale image to fit screen */
